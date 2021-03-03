@@ -1,7 +1,6 @@
 # 基于CNN的验证码识别
 
 ====
-### 其他语言： [English](https://github.com/PatrickLib/captcha_recognize/blob/master/README.md) [中文](https://github.com/PatrickLib/captcha_recognize/blob/master/README-zhcn.md)
 
 基于TensorFlow的验证码识别，运行环境 OSX 10.15.7，CPU，Python 2.7
 
